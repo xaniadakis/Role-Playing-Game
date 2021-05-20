@@ -1,7 +1,8 @@
 # Role-Playing-Game
 
-In this project, I implement in C++ the simulation of a role playing game. The game
-has objects, spells, heroes and monsters. Heroes and monsters live in a world that is
+In this project, I implement in C++ the simulation of a role playing game. 
+
+The game has objects, spells, heroes and monsters. Heroes and monsters live in a world that is
 represented by a grid. Heroes can be involved in battles with monsters, where they
 use objects and spells to defeat monsters, or they can buy objects
 to help them in their adventure. Every time the heroes defeat some monsters they collect
