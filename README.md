@@ -1,4 +1,4 @@
-# Role-Playing-Game
+# Role Playing Game
 
 In this project, I implement in C++ the simulation of a role playing game. 
 
