@@ -8,6 +8,8 @@ use objects and spells to defeat monsters, or they can buy objects
 to help them in their adventure. Every time the heroes defeat some monsters they collect
 some money and gain experience. When they gain enough experience, the heroes "go up"
 a level, which means they become stronger in their individual abilities.
+
+
 An item has a name, a purchase price and has a minimum level
 in which the hero must be in order to use it. A weapon is an
 object that can be used by the hero to attack a monster. It's got
